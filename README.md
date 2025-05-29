@@ -38,7 +38,7 @@ Excel: For initial data exploration, cleaning, and basic analysis (pivot tables,
 
 Power BI / Tableau: For building interactive dashboards and advanced data visualizations.
 
-SQL: To extract and manipulate data from relational databases.
+SQLite: To extract and manipulate data from relational databases.
 
 Python (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks.
 
