@@ -33,7 +33,6 @@ Based on the analysis, I proposed data-driven strategies aimed at:
 To ensure the sustainability of the improvements, I designed an interactive dashboard that provides real-time tracking of performance indicators, enabling managers to make informed decisions on an ongoing basis.
 
 # III. Tools Used
-To carry out this mission efficiently, I used the following tools and technologies:
 
 Excel: For initial data exploration, cleaning, and basic analysis (pivot tables, charts).
 
