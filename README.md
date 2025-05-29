@@ -1,4 +1,4 @@
-# Improve a business performance
+# Improve the business performance
 # I. Context
 As part of a consulting mission, I worked again as a Business Intelligence Analyst for Bottleneck which was seeking this time to improve its overall performance and profitability.
 
