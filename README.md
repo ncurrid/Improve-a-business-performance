@@ -13,10 +13,10 @@ To fulfill the objectives of the mission, I adopted a structured, data-driven ap
 I began by conducting interviews with key stakeholders (management, sales, operations) to better understand the company’s goals, challenges, and internal processes.
 
 ## 2. Data collection and preparation
-I gathered data from various sources, including sales records, operational data, and customer feedback. I ensured data quality by performing thorough cleaning, standardization, and validation checks.
+I gathered data from various sources, including sales records, operational data, and customer feedback. I ensured data quality by performing thorough cleaning, standardisation, and validation checks.
 
 ## 3. Data analysis and performance diagnosis
-I performed detailed analyses using KPIs (Key Performance Indicators) relevant to the company’s activities—such as customer acquisition cost, conversion rate, sales cycle duration, and product performance. This step allowed me to pinpoint underperforming areas, detect trends, and uncover hidden inefficiencies.
+I performed detailed analyses using KPIs relevant to the company’s activities: customer acquisition cost, conversion rate, sales cycle duration, and product performance. This step allowed me to pinpoint underperforming areas, detect trends, and uncover hidden inefficiencies.
 
 ## 4.Recommendation of improvement strategies
 Based on the analysis, I proposed data-driven strategies aimed at:
