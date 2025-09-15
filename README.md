@@ -21,25 +21,25 @@ I performed detailed analyses using KPIs relevant to the company’s activities:
 ## 4.Recommendation of improvement strategies
 Based on the analysis, I proposed data-driven strategies aimed at:
 
-- Optimising marketing and sales efforts
+- Optimising marketing and sales efforts,
 
-- Reducing operational inefficiencies
+- Reducing operational inefficiencies,
 
-- Improving customer satisfaction and retention
+- Improving customer satisfaction and retention,
 
-- Enhancing overall profitability
+- Enhancing overall profitability.
 
 ## 5. Creation of a decision-support dashboard
 To ensure the sustainability of the improvements, I designed an interactive dashboard that provides real-time tracking of performance indicators, enabling managers to make informed decisions on an ongoing basis.
 
 # III. Tools Used
 
-Excel: For initial data exploration, cleaning, and basic analysis (pivot tables, charts).
+**Excel:** For initial data exploration, cleaning, and basic analysis (pivot tables, charts).
 
-Power BI / Tableau: For building interactive dashboards and advanced data visualizations.
+**Power BI**: For building interactive dashboards and advanced data visualizations.
 
-SQLite: To extract and manipulate data from relational databases.
+**SQLite**: To extract and manipulate data from relational databases.
 
-Python (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks.
+**Python** (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks.
 
-Business Model Canvas: To understand the company’s structure, value propositions, and customer segments.
+**Business Model Canvas**: To understand the company’s structure, value propositions, and customer segments.
