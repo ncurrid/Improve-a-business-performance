@@ -34,12 +34,12 @@ To ensure the sustainability of the improvements, I designed an interactive dash
 
 # III. Tools Used
 
-**Excel:** for initial data exploration, cleaning, and basic analysis (pivot tables, charts),
+**Excel:** for initial data exploration, cleaning, and basic analysis (pivot tables, charts)
 
-**Power BI**: for building interactive dashboards and advanced data visualisations,
+**Power BI**: for building interactive dashboards and advanced data visualisations
 
-**SQLite**: to extract and manipulate data from relational databases,
+**SQLite**: to extract and manipulate data from relational databases
 
-**Python** (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks.
+**Python** (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks
 
-**Business Model Canvas**: to understand the company’s structure, value propositions, and customer segments.
+**Business Model Canvas**: to understand the company’s structure, value propositions, and customer segments
