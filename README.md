@@ -1,4 +1,10 @@
 # Improve the business performance
+# Tools
+**Excel:** for initial data exploration, cleaning, and basic analysis (pivot tables, charts)
+**Power BI**: for building interactive dashboards and advanced data visualisations
+**SQLite**: to extract and manipulate data from relational databases
+**Python** (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks
+**Business Model Canvas**: to understand the company’s structure, value propositions, and customer segments
 # I. Context
 As part of a consulting mission, I worked again as a Business Intelligence Analyst for Bottleneck which was seeking this time to improve its overall performance and profitability.
 
@@ -31,15 +37,3 @@ Based on the analysis, I proposed data-driven strategies aimed at:
 
 ## 5. Creation of a decision-support dashboard
 To ensure the sustainability of the improvements, I designed an interactive dashboard that provides real-time tracking of performance indicators, enabling managers to make informed decisions on an ongoing basis.
-
-# III. Tools Used
-
-**Excel:** for initial data exploration, cleaning, and basic analysis (pivot tables, charts)
-
-**Power BI**: for building interactive dashboards and advanced data visualisations
-
-**SQLite**: to extract and manipulate data from relational databases
-
-**Python** (Pandas, Matplotlib/Seaborn): For deeper data analysis and automation of repetitive tasks
-
-**Business Model Canvas**: to understand the company’s structure, value propositions, and customer segments
