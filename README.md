@@ -1,5 +1,5 @@
 # Improve the business performance
-# Tools
+## Tools
 **Excel:** for initial data exploration, cleaning, and basic analysis (pivot tables, charts)
 **Power BI**: for building interactive dashboards and advanced data visualisations
 **SQLite**: to extract and manipulate data from relational databases
